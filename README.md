@@ -3,6 +3,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Client App](#client-app)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -18,20 +19,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello React Rails] <a name="about-project"></a>
+# 📖 [Hello Rails Backend] <a name="about-project"></a>
 
-A simple full stack application that displays random greetings in different language
+A simple full stack application that generate random greetings in different language
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>React, Redux, React-Query</li>
-  </ul>
-</details>
 
 <details>
   <summary>Server</summary>
@@ -46,6 +40,10 @@ A simple full stack application that displays random greetings in different lang
     <li>Postgress</li>
   </ul>
 </details>
+
+### Client App <a name="client-app"></a>
+
+Here is the link to the client app, you can see the source code on [GitHub](https://github.com/Stephen-Adom/hello-react-front-end.git).
 
 ### Key Features <a name="key-features"></a>
 
@@ -63,7 +61,7 @@ In order to run this project you need: any web-browser.
 
 ### Setup
 
-Clone this [repository](https://github.com/Stephen-Adom/hello-rails-react.git) to your desired folder.
+Clone this [repository](https://github.com/Stephen-Adom/hello-rails-back-end.git) to your desired folder.
 
 ### Install
 
@@ -77,7 +75,7 @@ This project does not require installation.
 - Run the following commands:-
 - **rails db:migrate**
 - **rails db:seed**
-- **./bin/dev**
+- **rails server**
 
 ### Run tests
 
