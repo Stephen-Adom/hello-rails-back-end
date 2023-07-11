@@ -43,7 +43,7 @@ A simple full stack application that generate random greetings in different lang
 
 ### Client App <a name="client-app"></a>
 
-Here is the link to the client app, you can see the source code on [GitHub](https://github.com/Stephen-Adom/hello-react-front-end.git).
+Here is the link to the client app, you can see the source code on [Hello React Front-end](https://github.com/Stephen-Adom/hello-react-front-end.git).
 
 ### Key Features <a name="key-features"></a>
 
