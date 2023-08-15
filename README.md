@@ -21,7 +21,7 @@
 
 # 📖 [Hello Rails Backend] <a name="about-project"></a>
 
-A simple full stack application that generate random greetings in different language
+A simple Ruby on Rails application that generates random greetings in a different language
 
 ## 🛠 Built With <a name="built-with"></a>
 
