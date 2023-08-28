@@ -47,7 +47,7 @@ Here is the link to the client app, you can see the source code on [Hello React 
 
 ### Key Features <a name="key-features"></a>
 
-- **Display random greetings in different language**
+- **Display random greetings in different languages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: any web-browser.
+In order to run this project you need: any web browser.
 
 ### Setup
 
