@@ -57,7 +57,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: any web browser.
+In order to run this project you need a web browser.
 
 ### Setup
 
@@ -69,11 +69,11 @@ This project does not require installation.
 
 ### Usage
 
-**To run the project follow the following instruction:-**
+**To run the project follow the following instructions:-**
 
 - Clone this [repository](https://github.com/Stephen-Adom/hello-rails-react.git) in your local machine with correct branch.
 - Run the following commands:-
-- **rails db:migrate**
+- **rails db: migrate**
 - **rails db:seed**
 - **rails server**
 
